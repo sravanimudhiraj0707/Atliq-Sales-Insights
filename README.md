@@ -10,11 +10,11 @@ Every company has there sales insights in Atliq company which supplies computer 
 - Analyzing Revenue contribution by customer type
 
 # Insights
--There is a decrease in the revenue trend from 2017-2020
--Delhi NCR is the highest contributor in Revenue and Sales quantity by Market
--E-commerce gives the highest revenue contribution by customer type
--Surat gives highest profit % by market
--Central Market contributes to more Revenue
+- There is a decrease in the revenue trend from 2017-2020
+- Delhi NCR is the highest contributor in Revenue and Sales quantity by Market
+- E-commerce gives the highest revenue contribution by customer type
+- Surat gives highest profit % by market
+- Central Market contributes to more Revenue
 
 # Author
 project By: Sravani G
