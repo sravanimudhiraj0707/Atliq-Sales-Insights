@@ -19,11 +19,11 @@ SQL (MySQL) – Data extraction & analysis
 Power BI – Data visualization
 Excel – Data cleaning & validation
 # 🔍 Key SQL Analysis
-Revenue analysis by year, month, and market
-Top 5 customers by revenue
-Top-performing products
-Market-wise revenue contribution
-Sales trend analysis
+## Revenue analysis by year, month, and market
+## Top 5 customers by revenue
+## Top-performing products
+## Market-wise revenue contribution
+## Sales trend analysis
 # 📊 Power BI Dashboard Features
 Revenue KPI cards
 Market-wise revenue contribution (%)
