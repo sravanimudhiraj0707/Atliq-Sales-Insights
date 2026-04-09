@@ -15,6 +15,9 @@ Every company has there sales insights in Atliq company which supplies computer 
 - E-commerce gives the highest revenue contribution by customer type
 - Surat gives highest profit % by market
 - Central Market contributes to more Revenue
-
+# Dashboards
+<img width="1323" height="739" alt="Screenshot 2026-04-03 115105" src="https://github.com/user-attachments/assets/c5ba1c1a-2d65-4805-aac3-c936583f2bba" />
+<img width="1316" height="732" alt="Screenshot 2026-04-03 115007" src="https://github.com/user-attachments/assets/cf6fe392-da52-47e7-8b18-c2e803ab608e" />
+<img width="1313" height="731" alt="Screenshot 2026-04-03 114909" src="https://github.com/user-attachments/assets/c37df50b-33ae-478c-8419-f04941ad9cb9" />
 # Author
-project By: Sravani G
+Project By: Sravani G
